@@ -1,6 +1,6 @@
 # 📊 Amazon Sales Power BI Dashboard
 
-An end-to-end Business Intelligence project built with Power BI to analyze Amazon-style e-commerce sales data. The project demonstrates the complete analytics workflow from data cleaning to interactive dashboard development.
+An end-to-end Business Intelligence project built with **Power BI** to analyze **100,000+ Amazon-style e-commerce sales records**. The project demonstrates the complete analytics workflow, from data preparation to interactive dashboard development for business decision-making.
 
 ---
 
@@ -9,18 +9,18 @@ An end-to-end Business Intelligence project built with Power BI to analyze Amazo
 - 📥 Imported the dataset into Power BI
 - 🧹 Cleaned and transformed the data using Power Query
 - ⭐ Built a Star Schema data model
-- 📐 Created 10+ DAX measures for KPIs and business analysis
+- 📐 Developed 10+ DAX measures for KPIs and business analysis
 - 📊 Designed interactive dashboards with a consistent dark theme
 
 ---
 
-## 📈 Dashboards
+## 📈 Dashboard Pages
 
-- Overview Dashboard
-- Sales Dashboard
-- Products Dashboard
-- Customers Dashboard
-- Shipping Dashboard
+- 📌 Overview
+- 💰 Sales
+- 📦 Products
+- 👥 Customers
+- 🚚 Shipping
 
 ---
 
@@ -35,11 +35,25 @@ An end-to-end Business Intelligence project built with Power BI to analyze Amazo
 
 ## 📂 Dataset
 
-This project uses a **synthetic Amazon e-commerce dataset** obtained from **Kaggle** for educational and portfolio purposes.
+This project uses a **synthetic Amazon e-commerce sales dataset** containing **over 100,000 records**.
+
+The dataset includes:
+
+- 🛒 Orders
+- 👥 Customer Information
+- 📦 Products & Categories
+- 💳 Payment Methods
+- 🚚 Shipping Details
+- 🌍 Countries & Cities
+- 💰 Sales & Revenue Metrics
+
+The dataset provides a realistic business scenario for data cleaning, modeling, DAX calculations, and interactive dashboard development.
+
+> **Source:** Kaggle (Synthetic Amazon E-commerce Dataset)
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Project Preview
 
 ### Overview
 ![Overview](01-overview.png)
@@ -61,6 +75,17 @@ This project uses a **synthetic Amazon e-commerce dataset** obtained from **Kagg
 
 ### Shipping Dashboard
 ![Shipping](07-shipping.png)
+
+---
+
+## 🎯 Key Features
+
+- Interactive KPI Dashboard
+- Time Intelligence Analysis (YTD, MTD, YoY)
+- Customer & Product Performance Analysis
+- Shipping & Order Status Monitoring
+- Dynamic Filtering with Slicers
+- Modern Dark Theme Design
 
 ---
 
