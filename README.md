@@ -78,15 +78,15 @@ The dataset provides a realistic business scenario for data cleaning, modeling, 
 
 ---
 
-## 🎯 Key Features
+## 🎯 Project Highlights
 
-- Interactive KPI Dashboard
-- Time Intelligence Analysis (YTD, MTD, YoY)
-- Customer & Product Performance Analysis
-- Shipping & Order Status Monitoring
-- Dynamic Filtering with Slicers
-- Modern Dark Theme Design
-
+- Analyzed 100,000+ sales records
+- Built a Star Schema data model
+- Developed 10+ DAX measures
+- Designed 5 interactive dashboard pages
+- Implemented Time Intelligence (YTD, MTD, YoY)
+- Consistent dark theme for improved user experience
+  
 ---
 
 ## 👤 Author
