@@ -93,3 +93,5 @@ The dataset provides a realistic business scenario for data cleaning, modeling, 
 
 **Saud Majrashi**
 - LinkedIn:www.linkedin.com/in/saud-majrashi
+  
+Note: The Power BI (.pbix) file is not publicly available. It can be shared upon request for recruitment or technical evaluation.
